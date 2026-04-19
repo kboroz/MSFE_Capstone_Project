@@ -5,18 +5,16 @@
 ## 📚 Reference Materials
 
 ### Books & Textbooks
-* **Modern Portfolio Management**
-    * *Author:* Glenn N. Pettengill, G. Wenchi Wong
-    * *Link:* [Wiley-VCH Online Library](https://www.wiley.com/en-us/Modern+Portfolio+Management-p-9781119864455)
+* **Modern Portfolio Management: Active Long/Short 130/30 Equity Strategies**
+    * *Author:* Martin L. Leibowitz, Simon Emrich, Anthony Bova
+    * *Link:* [Wiley-VCH Online Library](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267189)
 * **Advanced Portfolio Management**
     * *Author:* Giuseppe Paleologo
     * *Link:* [Wiley-VCH Online Library](https://www.wiley.com/en-us/Advanced+Portfolio+Management%3A+A+Quant%27s+Guide+for+Fundamental+Investors-p-9781119789215)
 * **Managing Investment Portfolios: A Dynamic Process (Workbook)**
     * *Author:* John L. Maginn, Donald L. Tuttle, Jerald E. Pinto, Dennis W. McLeavey
     * *Link:* [Wiley-VCH / CFA Institute](https://www.wiley.com/en-us/Managing+Investment+Portfolios%3A+A+Dynamic+Process+Workbook%2C+3rd+Edition-p-9780470104934)
-* **Portfolio Management in Practice, Volume 1: Investment Management**
-    * *Author:* CFA Institute
-    * *Link:* [Amazon Listing](https://www.amazon.de/-/en/CFA-Institute/dp/1119743431)
+
 
 ### Academic Articles & Journal Papers
 
