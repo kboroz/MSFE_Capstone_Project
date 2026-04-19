@@ -30,12 +30,7 @@
 * **Quantifying the Behavior of Stock Correlations Under Market Stress**
     * *Author:* D. Kenett, M. Raddant, et al.
     * *Link:* [Scientific Reports (Nature)](https://www.nature.com/articles/srep00752)
-* **Stock-bond return correlation: Understanding the changing behaviour**
-    * *Author:* L. Yang, Y. Hamori, et al.
-    * *Link:* [ScienceDirect / Journal of International Financial Markets](https://www.sciencedirect.com/science/article/pii/S1042443115001325)
-* **Dynamic correlation pattern amongst alternative energy market for diversification opportunities**
-    * *Author:* M.U. Ahmed, J. Huo
-    * *Link:* [Journal of Economic Structures](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00253-x)
+
 
 ### Working Papers & Technical Reports
 * **Correlated Beliefs, Returns, and Stock Market Volatility**
