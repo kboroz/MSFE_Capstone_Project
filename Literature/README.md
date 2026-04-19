@@ -22,11 +22,11 @@
    * *Author:* Valentine Wanjiku Mwai, Cyprian Ondieki Omari, Simon Maina Mundia
    * *Link:* [Journal of Mathematical Finance](https://www.scirp.org/journal/paperinformation?paperid=147043)
 * **Evolution of worldwide stock markets, correlation structure, and correlation-based graphs**
-    * *Author:* J. Kwapień, S. Drożdż
-    * *Link:* [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.056113)
+    * *Author:* Dong-Ming Song , Michele Tumminello, Wei-Xing Zhou and Rosario N. Mantegna
+    * *Link:* [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.026108)
 * **Is a correlation-based investment strategy beneficial for long-term international portfolio investors?**
-    * *Author:* K.R.S. Sastry, et al.
-    * *Link:* [Springer Nature - Financial Innovation](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-017-0054-0)
+    * *Author:* Seema Wati Narayan, Mobeen Ur Rehman, Yi-Shuai Ren & Chaoqun Ma
+    * *Link:* [Springer Nature - Financial Innovation](https://link.springer.com/article/10.1186/s40854-023-00471-9)
 * **Quantifying the Behavior of Stock Correlations Under Market Stress**
     * *Author:* Tobias Preis, Dror Y. Kenett, H. Eugene Stanley, Dirk Helbing & Eshel Ben-Jacob
     * *Link:* [Scientific Reports (Nature)](https://www.nature.com/articles/srep00752)
