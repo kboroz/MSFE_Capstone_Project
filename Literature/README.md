@@ -48,11 +48,11 @@
 
 ### Theses & Dissertations
 * **Dynamic Portfolio Management Using Graph Neural Networks**
-    * *Author:* Degree Thesis / Student Research
-    * *Link:* [University Repository (PDF)](https://www.diva-portal.org/smash/get/diva2:1562301/FULLTEXT01.pdf)
+    * *Author:* Frauscher, Julian
+    * *Link:* [University Repository (PDF)](https://epub.jku.at/obvulihs/content/titleinfo/11475795)
 * **Stock Market Correlation and Investor Attention**
     * *Author:* Efthymia Symitsi
-    * *Link:* [University of Westminster (PhD)](https://westminsterresearch.westminster.ac.uk/item/q230v/stock-market-correlation-and-investor-attention)
+    * *Link:* [University of Westminster (PhD)](https://ueaeprints.uea.ac.uk/id/eprint/66551/)
 * **Master Thesis: Portfolio Diversification**
     * *Author:* Niklas Lappe
     * *Link:* [University Repository (PDF)](https://repositum.tuwien.at/bitstream/20.500.12708/15865/1/Master_Thesis_Niklas_Lappe.pdf)
