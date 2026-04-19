@@ -21,10 +21,8 @@
 ### Academic Articles & Journal Papers
 
 * **Forecasting Portfolio Market Risk Using Multivariate GARCH-Vine Copula Approach**
-   *Author:* Valentine Wanjiku Mwai, Cyprian Ondieki Omari, Simon Maina Mundia
+   * *Author:* Valentine Wanjiku Mwai, Cyprian Ondieki Omari, Simon Maina Mundia
    * *Link:* [Journal of Mathematical Finance](https://www.scirp.org/journal/paperinformation?paperid=147043)
-
-
 * **Evolution of worldwide stock markets, correlation structure, and correlation-based graphs**
     * *Author:* J. Kwapień, S. Drożdż
     * *Link:* [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.056113)
