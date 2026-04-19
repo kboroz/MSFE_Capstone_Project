@@ -42,8 +42,8 @@
 * **No Contagion, Only Interdependence: Measuring Stock Market Co-movements**
     * *Author:*  Kristin Forbes & Roberto Rigobon 
     * *Link:* [NBER Paper w7267](https://www.nber.org/papers/w7267)
-* **Portfolio Risk Management and Financial Market Correlation Structures**
-    * *Author:* J. Mulanga
+* **Relationship between Developed, Emerging and South Asian Equity Markets: Empirical Evidence with a Multivariate Framework Analysis**
+    * *Author:* Shahzad, Syed Jawad Hussain and Ahmed, Tanveer and Rehman, Mobeen Ur and Zakaria, Muhammad
     * *Link:* [MPRA Paper 60398](https://mpra.ub.uni-muenchen.de/60398/)
 
 ### Theses & Dissertations
