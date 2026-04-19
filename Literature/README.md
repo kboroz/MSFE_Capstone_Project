@@ -37,27 +37,53 @@ Engle, Robert. Dynamic Conditional Correlation: A Simple Class of Multivariate G
 eralized Autoregressive Conditional Heteroskedasticity Models. Journal of Business &
 Economic Statistics, vol. 20, no. 3, 2002, pp. 339–350. https://doi.org/10.1198/
 073500102288618487
+      
 Fernández-Macho, Javier. Wavelet multiple correlation and cross-correlation: A multi-
 scale analysis of Eurozone stock markets. Physica A: Statistical Mechanics and its Ap-
 plications, vol. 391, no. 4, 2012, pp. 1097–1104. https://www.sciencedirect.com/
 science/article/abs/pii/S0378437111008375
+
 Hofert, Marius, Ivan Kojadinovic, Martin Mächler, and Jun Yan. Elements of Copula
 Modeling with R. Use R! Series, Springer International Publishing, 2018. https://
 doi.org/10.1007/978-3-319-89635-9
+
 Kubiak, Szymon, et al. Denoising diffusion probabilistic model for realistic financial corre-
 lation matrices. Proceedings of the 5th ACM International Conference on AI in Finance,
 2024. https://doi.org/10.1145/3677052.3698640
+
 Laloux, Laurent, et al. Noise dressing of financial correlation matrices. Physical Review
 Letters, vol. 83, no. 7, 1467, 1999. https://doi.org/10.1103/PhysRevLett.83.1467
+
 Michis, Antonis A. Multiscale partial correlation clustering of stock market returns. Jour-
 nal of Risk and Financial Management, vol. 15, no. 1, 24, 2022. https://doi.org/10.
 3390/jrfm15010024
+
 Plerou, Vasiliki, et al. Universal and nonuniversal properties of cross correlations in
 financial time series. Physical Review Letters, vol. 83, no. 7, 1471, 1999. https://
 doi.org/10.1103/PhysRevLett.83.1471
+
 Ren, Yinghua, et al. Multiscale and partial correlation networks analysis of risk connect-
 edness in global equity markets. Physica A: Statistical Mechanics and its Applications,
 vol. 573, 125911, 2021. https://doi.org/10.1016/j.physa.2021.125911
+
+Bae, Joon Woo, and Redouane Elkamhi. Global Equity Correlation in Interna-
+tional Markets. Management Science, vol. 67, no. 11, 2021, pp. 7262–7289. Avail-
+able at: https://case.edu/weatherhead/sites/default/files/2022-10/Global%
+20Equity%20Correlation%20in%20International%20Markets.pdf
+
+Goetzmann, William N., Lingfeng Li, and K. Geert Rouwenhorst. Long-Term Global Mar-
+ket Correlations. National Bureau of Economic Research (NBER), Working Paper no.
+8612, 2001. Available at: https://www.nber.org/system/files/working_papers/
+w8612/w8612.pdf
+
+Narayan, Seema Wati, Mobeen Ur Rehman, Yi-Shuai Ren, and Chaoqun Ma. Is a
+Correlation-Based Investment Strategy Beneficial for Long-Term International Port-
+folio Investors? Financial Innovation, vol. 9, no. 1, art. 64, 2023, pp. 1–26. https:
+//doi.org/10.1186/s40854-023-00471-9
+
+Tumminello, Michele, Fabrizio Lillo, and Rosario N. Mantegna. Correlation, Hierarchies,
+and Networks in Financial Markets. Journal of Economic Behavior & Organization,
+vol. 75, no. 1, 2010, pp. 40–58. https://doi.org/10.1016/j.jebo.2010.01.004
 
 
 ### Working Papers & Technical Reports
