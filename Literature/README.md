@@ -63,14 +63,4 @@
 ### Web Resources & Industry Insight
 * **Asset Class Correlation Map**
     * *Source:* Guggenheim Investments
-    * *Link:* [Guggenheim Correlation Tool](https://www.guggenheiminvestments.com/etf/tools/asset-class-correlation-map)
-* **Understanding Global Market Correlations**
-    * *Source:* PIMCO
-    * *Link:* [PIMCO Insights](https://www.pimco.com/en-us/resources/education/understanding-global-market-correlations)
-* **Understanding Correlation**
-    * *Source:* ETF Trends / VettaFi
-    * *Link:* [ETF Trends Article](https://www.etftrends.com/advisor-education-channel/understanding-correlation/)
-* **MATE KK Meeting (17. Januar 2025)**
-    * *Source:* Indico / CERN
-    * *Link:* [Indico Meeting Page](https://indico.cern.ch/event/1454673/)
-
+    * *Link:* [Guggenheim Correlation Tool](https://www.guggenheiminvestments.com/advisor-resources/interactive-tools/asset-class-correlation-map)
