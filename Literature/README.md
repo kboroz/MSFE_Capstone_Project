@@ -49,7 +49,7 @@
 ### Theses & Dissertations
 * **Dynamic Portfolio Management Using Graph Neural Networks**
     * *Author:* Frauscher, Julian
-    * *Link:* [University Repository (PDF)](https://epub.jku.at/obvulihs/content/titleinfo/11475795)
+    * *Link:* [ePUB - Publikationsserver der Universitätsbibliothek Linz](https://epub.jku.at/obvulihs/content/titleinfo/11475795)
 * **Stock Market Correlation and Investor Attention**
     * *Author:* Efthymia Symitsi
     * *Link:* [University of Westminster (PhD)](https://ueaeprints.uea.ac.uk/id/eprint/66551/)
