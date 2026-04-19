@@ -34,20 +34,14 @@
 
 ### Working Papers & Technical Reports
 * **Correlated Beliefs, Returns, and Stock Market Volatility**
-    * *Author:* S. Nagel, J. Xu
+    * *Author:*  Joel M. David & Ina Simonovska
     * *Link:* [NBER Paper w21480](https://www.nber.org/papers/w21480)
-* **Global Equity Correlation in International Markets**
-    * *Author:* P. Cappiello, B. Gérard
+* **Long-Term Global Market Correlations**
+    * *Author:*  William N. Goetzmann, Lingfeng Li & K. Geert Rouwenhorst 
     * *Link:* [NBER Paper w8612](https://www.nber.org/papers/w8612)
-* **Stock-Bond Correlation: [PFP#792301966]**
-    * *Author:* J.Y. Campbell, L.M. Viceira
+* **No Contagion, Only Interdependence: Measuring Stock Market Co-movements**
+    * *Author:*  Kristin Forbes & Roberto Rigobon 
     * *Link:* [NBER Paper w7267](https://www.nber.org/papers/w7267)
-* **The Stock-Bond Correlation and Monetary Policy Regimes**
-    * *Author:* C. Schmeling, A. Schrimpf
-    * *Link:* [CESifo Working Paper no. 9956](https://www.cesifo.org/en/publications/2022/working-paper/stock-bond-correlation-and-monetary-policy-regimes)
-* **Empirical Evidence on the Stock–Bond Correlation**
-    * *Author:* Vanguard Research (Report)
-    * *Link:* [Vanguard Institutional](https://institutional.vanguard.com/iam/pdf/ISGSBC.pdf)
 * **Portfolio Risk Management and Financial Market Correlation Structures**
     * *Author:* J. Mulanga
     * *Link:* [MPRA Paper 60398](https://mpra.ub.uni-muenchen.de/60398/)
