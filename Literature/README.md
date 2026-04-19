@@ -30,6 +30,34 @@
 * **Quantifying the Behavior of Stock Correlations Under Market Stress**
     * *Author:* Tobias Preis, Dror Y. Kenett, H. Eugene Stanley, Dirk Helbing & Eshel Ben-Jacob
     * *Link:* [Scientific Reports (Nature)](https://www.nature.com/articles/srep00752)
+    * 
+    * Czado, Claudia. Analyzing Dependent Data with Vine Copulas: A Practical Guide With
+R. Springer Textbook, 2019. https://doi.org/10.1007/978-3-030-13785-4
+Engle, Robert. Dynamic Conditional Correlation: A Simple Class of Multivariate Gen-
+eralized Autoregressive Conditional Heteroskedasticity Models. Journal of Business &
+Economic Statistics, vol. 20, no. 3, 2002, pp. 339–350. https://doi.org/10.1198/
+073500102288618487
+Fernández-Macho, Javier. Wavelet multiple correlation and cross-correlation: A multi-
+scale analysis of Eurozone stock markets. Physica A: Statistical Mechanics and its Ap-
+plications, vol. 391, no. 4, 2012, pp. 1097–1104. https://www.sciencedirect.com/
+science/article/abs/pii/S0378437111008375
+Hofert, Marius, Ivan Kojadinovic, Martin Mächler, and Jun Yan. Elements of Copula
+Modeling with R. Use R! Series, Springer International Publishing, 2018. https://
+doi.org/10.1007/978-3-319-89635-9
+Kubiak, Szymon, et al. Denoising diffusion probabilistic model for realistic financial corre-
+lation matrices. Proceedings of the 5th ACM International Conference on AI in Finance,
+2024. https://doi.org/10.1145/3677052.3698640
+Laloux, Laurent, et al. Noise dressing of financial correlation matrices. Physical Review
+Letters, vol. 83, no. 7, 1467, 1999. https://doi.org/10.1103/PhysRevLett.83.1467
+Michis, Antonis A. Multiscale partial correlation clustering of stock market returns. Jour-
+nal of Risk and Financial Management, vol. 15, no. 1, 24, 2022. https://doi.org/10.
+3390/jrfm15010024
+Plerou, Vasiliki, et al. Universal and nonuniversal properties of cross correlations in
+financial time series. Physical Review Letters, vol. 83, no. 7, 1471, 1999. https://
+doi.org/10.1103/PhysRevLett.83.1471
+Ren, Yinghua, et al. Multiscale and partial correlation networks analysis of risk connect-
+edness in global equity markets. Physica A: Statistical Mechanics and its Applications,
+vol. 573, 125911, 2021. https://doi.org/10.1016/j.physa.2021.125911
 
 
 ### Working Papers & Technical Reports
