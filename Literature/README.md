@@ -10,7 +10,7 @@
     * *Link:* [Wiley-VCH Online Library](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267189)
 * **Advanced Portfolio Management**
     * *Author:* Giuseppe Paleologo
-    * *Link:* [Wiley-VCH Online Library](https://www.wiley.com/en-us/Advanced+Portfolio+Management%3A+A+Quant%27s+Guide+for+Fundamental+Investors-p-9781119789215)
+    * *Link:* [Wiley-VCH Online Library](https://www.wiley.com/en-us/Advanced+Portfolio+Management%3A+A+Quant's+Guide+for+Fundamental+Investors-p-9781119789802)
 * **Managing Investment Portfolios: A Dynamic Process (Workbook)**
     * *Author:* John L. Maginn, Donald L. Tuttle, Jerald E. Pinto, Dennis W. McLeavey
     * *Link:* [Wiley-VCH / CFA Institute](https://www.wiley.com/en-us/Managing+Investment+Portfolios%3A+A+Dynamic+Process+Workbook%2C+3rd+Edition-p-9780470104934)
