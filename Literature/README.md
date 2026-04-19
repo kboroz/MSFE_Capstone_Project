@@ -28,7 +28,7 @@
     * *Author:* K.R.S. Sastry, et al.
     * *Link:* [Springer Nature - Financial Innovation](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-017-0054-0)
 * **Quantifying the Behavior of Stock Correlations Under Market Stress**
-    * *Author:* D. Kenett, M. Raddant, et al.
+    * *Author:* Tobias Preis, Dror Y. Kenett, H. Eugene Stanley, Dirk Helbing & Eshel Ben-Jacob
     * *Link:* [Scientific Reports (Nature)](https://www.nature.com/articles/srep00752)
 
 
