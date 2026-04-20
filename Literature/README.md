@@ -14,7 +14,12 @@
 * **Managing Investment Portfolios: A Dynamic Process (Workbook)**
     * *Author:* John L. Maginn, Donald L. Tuttle, Jerald E. Pinto, Dennis W. McLeavey
     * *Link:* [Wiley-VCH / CFA Institute](https://www.wiley.com/en-us/Managing+Investment+Portfolios%3A+A+Dynamic+Process+Workbook%2C+3rd+Edition-p-9780470104934)
-
+* **Elements of Copula Modeling with R**
+   * *Author:* Hofert, Marius, Ivan Kojadinovic, Martin Mächler, and Jun Yan
+   * *Link:* [Springer International Publishing](https://doi.org/10.1007/978-3-319-89635-9)
+* **Analyzing Dependent Data with Vine Copulas: A Practical Guide With R**
+    * Author:* Czado, Claudia
+    * *Link:* [Springer Textbook](https://doi.org/10.1007/978-3-030-13785-4)
 
 ### Academic Articles & Journal Papers
 
@@ -30,9 +35,7 @@
 * **Quantifying the Behavior of Stock Correlations Under Market Stress**
     * *Author:* Tobias Preis, Dror Y. Kenett, H. Eugene Stanley, Dirk Helbing & Eshel Ben-Jacob
     * *Link:* [Scientific Reports (Nature)](https://www.nature.com/articles/srep00752)
-* **Analyzing Dependent Data with Vine Copulas: A Practical Guide With R**
-    * Author:* Czado, Claudia
-    * *Link:* [Springer Textbook](https://doi.org/10.1007/978-3-030-13785-4)
+
 * **Dynamic Conditional Correlation: A Simple Class of Multivariate Generalized Autoregressive Conditional Heteroskedasticity Models**
    * *Author:* Engle, Robert.
    * *Link:* [Journal of Business & Economic Statistics](https://doi.org/10.1198/073500102288618487)
@@ -40,11 +43,6 @@
 * **Wavelet multiple correlation and cross-correlation: A multiscale analysis of Eurozone stock markets**
    * *Author:* Fernández-Macho, Javier
    * *Link:* [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/science/article/abs/pii/S0378437111008375)
-
-* **Elements of Copula Modeling with R**
-   * *Author:* Hofert, Marius, Ivan Kojadinovic, Martin Mächler, and Jun Yan
-   * *Link:* [Springer International Publishing](https://doi.org/10.1007/978-3-319-89635-9)
-
 
 * **
    * *Author:*
@@ -93,30 +91,19 @@ able at: https://case.edu/weatherhead/sites/default/files/2022-10/Global%
 20Equity%20Correlation%20in%20International%20Markets.pdf
 
 
-* **
-   * *Author:*
-   * *Link:*
-Goetzmann, William N., Lingfeng Li, and K. Geert Rouwenhorst. Long-Term Global Mar-
-ket Correlations. National Bureau of Economic Research (NBER), Working Paper no.
-8612, 2001. Available at: https://www.nber.org/system/files/working_papers/
-w8612/w8612.pdf
+* **Long-Term Global Market Correlations**
+   * *Author:* Goetzmann, William N., Lingfeng Li, and K. Geert Rouwenhorst
+   * *Link:* [National Bureau of Economic Research (NBER)](https://www.nber.org/system/files/working_papers/w8612/w8612.pdf)
 
 
-* **
-   * *Author:*
-   * *Link:*
-Narayan, Seema Wati, Mobeen Ur Rehman, Yi-Shuai Ren, and Chaoqun Ma. Is a
-Correlation-Based Investment Strategy Beneficial for Long-Term International Port-
-folio Investors? Financial Innovation, vol. 9, no. 1, art. 64, 2023, pp. 1–26. https:
-//doi.org/10.1186/s40854-023-00471-9
+* **Is a Correlation-Based Investment Strategy Beneficial for Long-Term International Portfolio Investors?**
+   * *Author:* Narayan, Seema Wati, Mobeen Ur Rehman, Yi-Shuai Ren, and Chaoqun Ma
+   * *Link:* [Financial Innovation](https://doi.org/10.1186/s40854-023-00471-9)
 
 
-* **
-   * *Author:*
-   * *Link:*
-Tumminello, Michele, Fabrizio Lillo, and Rosario N. Mantegna. Correlation, Hierarchies,
-and Networks in Financial Markets. Journal of Economic Behavior & Organization,
-vol. 75, no. 1, 2010, pp. 40–58. https://doi.org/10.1016/j.jebo.2010.01.004
+* **Correlation, Hierarchies and Networks in Financial Markets**
+   * *Author:* Tumminello, Michele, Fabrizio Lillo, and Rosario N. Mantegna
+   * *Link:* [Journal of Economic Behavior & Organization](https://doi.org/10.1016/j.jebo.2010.01.004)
 
 
 ### Working Papers & Technical Reports
