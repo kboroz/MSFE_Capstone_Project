@@ -109,9 +109,9 @@
 * **Master Thesis: Portfolio Diversification**
     * *Author:* Niklas Lappe
     * *Link:* [ETHZ Chair of Entrepreneurial Risks - PhD and Master Theses](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/master%20thesis/Master_Thesis_Niklas_Lappe.pdf)
-* **Correlation Structure in Financial Markets**
+* **The Curious Case of Portfolio Selection: Analysis of Correlations and Diversification Over Time**
     * *Author:* B. Oskay
-    * *Link:* [Ankara University Repository](https://dspace.ankara.edu.tr/xmlui/handle/20.500.12575/41438)
+    * *Link:* [Erasmus University Thesis Repository](https://thesis.eur.nl/pub/42956)
 
 ### Web Resources & Industry Insight
 * **Asset Class Correlation Map**
