@@ -1,7 +1,6 @@
 # MSFE_Capstone_Project
 
-The current project study intends to assess how varying inter- and intracorrelations be-
-tween major international equity markets evolve across time horizons and market states,
+The current project study intends to assess how varying inter- and intracorrelations between major international equity markets evolve across time horizons and market states,
 and form the basis for advanced factor-based investing strategies. Earlier studies (Bae
 & Elkamhi 2021; Goetzman 2001) focused on the impact and diversifiaction benefits of
 correlation based investemnt strategies (Narayan et al. 2023). 
