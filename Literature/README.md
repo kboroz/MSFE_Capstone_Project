@@ -18,7 +18,7 @@
    * *Author:* Hofert, Marius, Ivan Kojadinovic, Martin Mächler, and Jun Yan
    * *Link:* [Springer International Publishing](https://doi.org/10.1007/978-3-319-89635-9)
 * **Analyzing Dependent Data with Vine Copulas: A Practical Guide With R**
-    * Author:* Czado, Claudia
+    * *Author:* Czado, Claudia
     * *Link:* [Springer Textbook](https://doi.org/10.1007/978-3-030-13785-4)
 
 ### Academic Articles & Journal Papers
@@ -44,12 +44,9 @@
    * *Author:* Fernández-Macho, Javier
    * *Link:* [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/science/article/abs/pii/S0378437111008375)
 
-* **
-   * *Author:*
-   * *Link:*
-Kubiak, Szymon, et al. Denoising diffusion probabilistic model for realistic financial corre-
-lation matrices. Proceedings of the 5th ACM International Conference on AI in Finance,
-2024. https://doi.org/10.1145/3677052.3698640
+* **Denoising diffusion probabilistic model for realistic financial correlation matrices**
+   * *Author:* Kubiak, Szymon, et al.
+   * *Link:*[Proceedings of the 5th ACM International Conference on AI in Finance](https://doi.org/10.1145/3677052.3698640)
 
 
 * **
@@ -59,12 +56,9 @@ Laloux, Laurent, et al. Noise dressing of financial correlation matrices. Physic
 Letters, vol. 83, no. 7, 1467, 1999. https://doi.org/10.1103/PhysRevLett.83.1467
 
 
-* **
-   * *Author:*
-   * *Link:*
-Michis, Antonis A. Multiscale partial correlation clustering of stock market returns. Jour-
-nal of Risk and Financial Management, vol. 15, no. 1, 24, 2022. https://doi.org/10.
-3390/jrfm15010024
+* **Multiscale partial correlation clustering of stock market returns**
+   * *Author:* Michis, Antonis
+   * *Link:* [Journal of Risk and Financial Management, vol. 15, no. 1, 24, 2022.](https://doi.org/10.3390/jrfm15010024)
 
 
 * **
@@ -91,9 +85,6 @@ able at: https://case.edu/weatherhead/sites/default/files/2022-10/Global%
 20Equity%20Correlation%20in%20International%20Markets.pdf
 
 
-* **Long-Term Global Market Correlations**
-   * *Author:* Goetzmann, William N., Lingfeng Li, and K. Geert Rouwenhorst
-   * *Link:* [National Bureau of Economic Research (NBER)](https://www.nber.org/system/files/working_papers/w8612/w8612.pdf)
 
 
 * **Is a Correlation-Based Investment Strategy Beneficial for Long-Term International Portfolio Investors?**
