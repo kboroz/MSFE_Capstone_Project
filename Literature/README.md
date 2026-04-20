@@ -49,11 +49,9 @@
    * *Link:*[Proceedings of the 5th ACM International Conference on AI in Finance](https://doi.org/10.1145/3677052.3698640)
 
 
-* **
-   * *Author:*
-   * *Link:*
-Laloux, Laurent, et al. Noise dressing of financial correlation matrices. Physical Review
-Letters, vol. 83, no. 7, 1467, 1999. https://doi.org/10.1103/PhysRevLett.83.1467
+* **Noise dressing of financial correlation matrices**
+   * *Author:* Laloux, Laurent, et al.
+   * *Link:* [Physical Review Letters, vol. 83, no. 7, 1467, 1999](https://doi.org/10.1103/PhysRevLett.83.1467)
 
 
 * **Multiscale partial correlation clustering of stock market returns**
@@ -61,28 +59,18 @@ Letters, vol. 83, no. 7, 1467, 1999. https://doi.org/10.1103/PhysRevLett.83.1467
    * *Link:* [Journal of Risk and Financial Management, vol. 15, no. 1, 24, 2022.](https://doi.org/10.3390/jrfm15010024)
 
 
-* **
-   * *Author:*
-   * *Link:*
-Plerou, Vasiliki, et al. Universal and nonuniversal properties of cross correlations in
-financial time series. Physical Review Letters, vol. 83, no. 7, 1471, 1999. https://
-doi.org/10.1103/PhysRevLett.83.1471
+* **Universal and nonuniversal properties of cross correlations in financial time series**
+   * *Author:* Plerou, Vasiliki, et al.
+   * *Link:* [Physical Review Letters, vol. 83, no. 7, 1471, 1999](https://doi.org/10.1103/PhysRevLett.83.1471)
 
 
-* **
-   * *Author:*
-   * *Link:*
-Ren, Yinghua, et al. Multiscale and partial correlation networks analysis of risk connect-
-edness in global equity markets. Physica A: Statistical Mechanics and its Applications,
-vol. 573, 125911, 2021. https://doi.org/10.1016/j.physa.2021.125911
+* **Multiscale and partial correlation networks analysis of risk connectedness in global equity markets**
+   * *Author:* Ren, Yinghua, et al.
+   * *Link:* [Physica A: Statistical Mechanics and its Applications, vol. 573, 125911, 2021](https://doi.org/10.1016/j.physa.2021.125911)
 
-* **
-   * *Author:*
-   * *Link:*
-Bae, Joon Woo, and Redouane Elkamhi. Global Equity Correlation in Interna-
-tional Markets. Management Science, vol. 67, no. 11, 2021, pp. 7262–7289. Avail-
-able at: https://case.edu/weatherhead/sites/default/files/2022-10/Global%
-20Equity%20Correlation%20in%20International%20Markets.pdf
+* **Global Equity Correlation in International Markets**
+   * *Author:* Bae, Joon Woo, and Redouane Elkamhi
+   * *Link:* [Management Science, vol. 67, no. 11, 2021, pp. 7262–7289](https://case.edu/weatherhead/sites/default/files/2022-10/Global%20Equity%20Correlation%20in%20International%20Markets.pdf)
 
 
 
