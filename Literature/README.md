@@ -108,7 +108,7 @@
     * *Link:* [University of Westminster (PhD)](https://ueaeprints.uea.ac.uk/id/eprint/66551/)
 * **Master Thesis: Portfolio Diversification**
     * *Author:* Niklas Lappe
-    * *Link:* [University Repository (PDF)](https://repositum.tuwien.at/bitstream/20.500.12708/15865/1/Master_Thesis_Niklas_Lappe.pdf)
+    * *Link:* [ETHZ Chair of Entrepreneurial Risks - PhD and Master Theses](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/master%20thesis/Master_Thesis_Niklas_Lappe.pdf)
 * **Correlation Structure in Financial Markets**
     * *Author:* B. Oskay
     * *Link:* [Ankara University Repository](https://dspace.ankara.edu.tr/xmlui/handle/20.500.12575/41438)
