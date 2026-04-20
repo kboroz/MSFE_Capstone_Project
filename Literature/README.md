@@ -31,27 +31,19 @@
     * *Author:* Tobias Preis, Dror Y. Kenett, H. Eugene Stanley, Dirk Helbing & Eshel Ben-Jacob
     * *Link:* [Scientific Reports (Nature)](https://www.nature.com/articles/srep00752)
 * **Analyzing Dependent Data with Vine Copulas: A Practical Guide With R**
-    * Author:* Czado, Claudia. . Springer Textbook, 2019.
-    * *Link:* [Springer Nature](https://doi.org/10.1007/978-3-030-13785-4)
+    * Author:* Czado, Claudia
+    * *Link:* [Springer Textbook](https://doi.org/10.1007/978-3-030-13785-4)
 * **Dynamic Conditional Correlation: A Simple Class of Multivariate Generalized Autoregressive Conditional Heteroskedasticity Models**
    * *Author:* Engle, Robert.
    * *Link:* [Journal of Business & Economic Statistics](https://doi.org/10.1198/073500102288618487)
 
-* **
-   * *Author:*
-   * *Link:*
-Fernández-Macho, Javier. Wavelet multiple correlation and cross-correlation: A multi-
-scale analysis of Eurozone stock markets. Physica A: Statistical Mechanics and its Ap-
-plications, vol. 391, no. 4, 2012, pp. 1097–1104. https://www.sciencedirect.com/
-science/article/abs/pii/S0378437111008375
+* **Wavelet multiple correlation and cross-correlation: A multiscale analysis of Eurozone stock markets**
+   * *Author:* Fernández-Macho, Javier
+   * *Link:* [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/science/article/abs/pii/S0378437111008375)
 
-
-* **
-   * *Author:*
-   * *Link:*
-Hofert, Marius, Ivan Kojadinovic, Martin Mächler, and Jun Yan. Elements of Copula
-Modeling with R. Use R! Series, Springer International Publishing, 2018. https://
-doi.org/10.1007/978-3-319-89635-9
+* **Elements of Copula Modeling with R**
+   * *Author:* Hofert, Marius, Ivan Kojadinovic, Martin Mächler, and Jun Yan
+   * *Link:* [Springer International Publishing](https://doi.org/10.1007/978-3-319-89635-9)
 
 
 * **
