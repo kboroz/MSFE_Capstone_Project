@@ -5,6 +5,9 @@
 ## 📚 Reference Materials
 
 ### Books & Textbooks
+* **Modern Portfolio Management - Moving Beyond Modern Portfolio Theory**
+    * *Author:* Todd E. Petzel
+    * *Link:* [Wiley-VCH Online Library](https://www.wiley-vch.de/en/areas-interest/finance-economics-law/finance-investments-13fi/general-finance-investments-13fi0/modern-portfolio-management-978-1-119-81850-2)
 * **Modern Portfolio Management: Active Long/Short 130/30 Equity Strategies**
     * *Author:* Martin L. Leibowitz, Simon Emrich, Anthony Bova
     * *Link:* [Wiley-VCH Online Library](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267189)
