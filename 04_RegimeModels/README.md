@@ -4,7 +4,7 @@
   
   -weekly (1,2,3,4)
 
--GARCH-Copula
+-GARCH-Copula-R-Vine-Portfolio
 
   -daily (1,2,3,4,5)
   
