@@ -1,1 +1,6 @@
-
+-Correlation Regimes
+  -daily (1,2,3,4,5)
+  -weekly (1,2,3,4)
+-GARCH-Copula
+  -daily (1,2,3,4,5)
+  -weekly (1,2,3,4)
