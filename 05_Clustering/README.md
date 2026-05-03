@@ -1,5 +1,5 @@
--Hierarchical Risk Parity
+-Hierarchical Risk Parity (Israel)
 
--RMT
+-RMT (Kristian)
 
--Machine Learning
+-Machine Learning (Issac)
