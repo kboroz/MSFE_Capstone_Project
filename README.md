@@ -12,18 +12,16 @@ The sample period of 10 years is chosen as the longest common sample across the 
 Since temporal dislocations due to non-synchronous trading hours may bias short-horizon
 comovements, we will also investigate how correlations change as the differencing period
 increases, and whether correlations are higher during crises. Additionally, we extend our
-feature space by introducing the Minimum Covariance Determinant and similar methods
-(see Tumminello et al. 2010) and apply concepts based on Random Matrix Theory to
-robustify the estimation of the dependence structure against noise. We are particularly
+feature space by introducing variation of the Correlation Determinant 
+(see Tumminello et al. 2010) to robustify the estimation of the dependence structure against noise. We are particularly
 interested in North–South differences across global markets and time zones. 
 
 A corollary to the problem is the importance of diversification and hedging: if correlations within
 the portfolio increase meaningfully at longer time horizons or in stress regimes, daily
 correlation-based portfolios are not sufficiently diversified and may underperform when
-protection is needed. In addition to the above, we will implement clustering to separate
-assets by statistical behavior, and test whether we can produce a more stable allocation
+protection is needed. We hope to separate assets by statistical behavior, and test whether we can produce a more stable allocation
 than other methods based on noisy covariance estimates. Our project implementation
 will use publicly available historical market data. 
 
-The end-to-end project (data collection, EDA, correlation estimation, asset clustering, comparison of portfolio construction
+The end-to-end project (data collection, EDA, correlation estimation, asset allocation, comparison of portfolio construction
 methods) will be implemented in Python.
