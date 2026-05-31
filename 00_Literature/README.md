@@ -37,14 +37,14 @@
     * *Link:* [Springer Nature - Financial Innovation](https://link.springer.com/article/10.1186/s40854-023-00471-9)
 * **Quantifying the Behavior of Stock Correlations Under Market Stress**
     * *Author:* Tobias Preis, Dror Y. Kenett, H. Eugene Stanley, Dirk Helbing & Eshel Ben-Jacob
-    * *Link:* [Scientific Reports (Nature)](https://www.nature.com/articles/srep00752
+    * *Link:* [Scientific Reports (Nature)](https://www.nature.com/articles/srep00752)
 * **Portfolio Selection.**
      * *Author:* Markowitz, Harry.
      * *Link:* [The Journal of Finance](https://www.jstor.org/stable/2975974)
  
 * **No contagion, only interdependence: measuring stock market comovements.**
      * *Author:* Forbes, Kristin J., & Roberto Rigobon
-     * *Link:* [The Journal of Finance](https://onlinelibrary.wiley.com/doi/pdf/10.1111/0022-1082.00494?            casa_token=kORGEeQc_9QAAAAA:cxEzSNKzMknP8Q5CyFGaKJQgdioKZXxWKw2hPjMNjz3zHv_m0pQF1i3_H6ue29Yy1Zj-ZsTCU7jolF5-)
+     * *Link:* [The Journal of Finance](https://onlinelibrary.wiley.com/doi/pdf/10.1111/0022-1082.00494?casa_token=kORGEeQc_9QAAAAA:cxEzSNKzMknP8Q5CyFGaKJQgdioKZXxWKw2hPjMNjz3zHv_m0pQF1i3_H6ue29Yy1Zj-ZsTCU7jolF5-)
 
 
 * **Dynamic Conditional Correlation: A Simple Class of Multivariate Generalized Autoregressive Conditional Heteroskedasticity Models**
